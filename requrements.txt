@@ -1,0 +1,8 @@
+dotenv==0.9.9
+pyodbc==5.3.0
+python-dotenv==1.2.2
+certifi==2026.4.22
+charset-normalizer==3.4.7
+idna==3.13
+requests==2.33.1
+urllib3==2.6.3
