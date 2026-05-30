@@ -8,7 +8,10 @@ This repository contains a small Python project for exam/practice work.
 .
 ├── src/
 │   └── functions.py
-├── git_pusher.py
+├──.env
+├──.gitignore
+├──requrements.txt
+├──start.py
 └── README.md
 ```
 
