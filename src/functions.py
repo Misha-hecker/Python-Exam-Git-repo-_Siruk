@@ -119,7 +119,6 @@ def prompt_table_choice():
         print('Unknown option. Try again.')
 
 def _fetch_swapi(url):
-    """Generator that fetches paginated SWAPI-like endpoints and yields results."""
     while url:
         resp = requests.get(url, timeout=15)
         resp.raise_for_status()
