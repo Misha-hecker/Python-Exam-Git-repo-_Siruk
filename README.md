@@ -29,13 +29,6 @@ cd Python-Exam-Git-repo-_Siruk
 If the project uses environment variables, create a local `.env` file in the
 project root. Do not commit real secrets or private tokens.
 
-## Running Python Files
-
-Run scripts from the project root:
-
-```bash
-python git_pusher.py
-```
 
 You can also import functions from `src/functions.py` in your own Python files
 or tests.
