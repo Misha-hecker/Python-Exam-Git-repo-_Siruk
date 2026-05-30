@@ -1,14 +1,15 @@
 1.Меню,
-2.Import films
+2.Import films people planets species vehicles starships
+sort by gender
 
 ......
-3.Показати films, people, ....
+3.Показати films, people, planets species vehicles starships
 4.Вихід
  
- Передбачити що дані в БД можуть вже існувати...
- 
+Передбачити що дані в БД можуть вже існувати...
+писати лише name height mass gender
 
- {
+{
 	"films": "https://swapi.info/api/films",
 	"people": "https://swapi.info/api/people",
 	"planets": "https://swapi.info/api/planets",
