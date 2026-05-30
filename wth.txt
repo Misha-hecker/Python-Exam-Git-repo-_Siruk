@@ -1,0 +1,18 @@
+1.Меню,
+2.Import films
+
+......
+3.Показати films, people, ....
+4.Вихід
+ 
+ Передбачити що дані в БД можуть вже існувати...
+ 
+
+ {
+	"films": "https://swapi.info/api/films",
+	"people": "https://swapi.info/api/people",
+	"planets": "https://swapi.info/api/planets",
+	"species": "https://swapi.info/api/species",
+	"vehicles": "https://swapi.info/api/vehicles",
+	"starships": "https://swapi.info/api/starships"
+}
